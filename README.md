@@ -2,10 +2,10 @@
 
 效果图
 
-![Alt text](img/a.jpg)
+![Alt text](img/a.png)
 
 
-![Alt text](img/b.jpg)
+![Alt text](img/b.png)
 
 
 
