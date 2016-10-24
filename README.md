@@ -2,10 +2,10 @@
 
 效果图
 
-![Alt text](https://github.com/dingqiqi/PolygonView/blob/master/img/a.jpg)
+![Alt text](img/a.jpg)
 
 
-![Alt text](https://github.com/dingqiqi/PolygonView/blob/master/img/b.jpg)
+![Alt text](img/b.jpg)
 
 
 
