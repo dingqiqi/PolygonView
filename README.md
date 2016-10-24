@@ -2,9 +2,11 @@
 
 效果图
 
-https://github.com/dingqiqi/PolygonView/blob/master/img/a.jpg
+![Alt text](https://github.com/dingqiqi/PolygonView/blob/master/img/a.jpg)
 
-https://github.com/dingqiqi/PolygonView/blob/master/img/b.jpg
+
+![Alt text](https://github.com/dingqiqi/PolygonView/blob/master/img/b.jpg)
+
 
 
 
